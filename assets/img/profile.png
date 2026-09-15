@@ -1,0 +1,14 @@
+<!-- Placeholder SVG for profile image -->
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#00c9a7;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <circle cx="200" cy="200" r="180" fill="url(#bgGrad)" />
+    <circle cx="200" cy="200" r="150" fill="rgba(255,255,255,0.1)" />
+    <text x="200" y="200" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="48" font-weight="bold">AM</text>
+    <text x="200" y="250" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="24">Alex Morgan</text>
+    <text x="200" y="280" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="18">Amazon SDE</text>
+</svg>
